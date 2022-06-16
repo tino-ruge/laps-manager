@@ -1,0 +1,14 @@
+{
+	"LAPS": {
+		"Username": "Administrator"
+	},
+	"DC": {
+		"IP": "192.168.0.10",
+		"Username": "administrator@tino-ruge.de",
+		"Password": "NomenEstOmen2022",
+		"BaseDN": "dc=tino-ruge,dc=de"
+	},
+	"Server": {
+		"HTTPPort": 8123
+	}
+}

@@ -1,0 +1,26 @@
+{
+  "name": "laps-manager",
+  "version": "0.1.0",
+  "description": "Webinterface for managing LAPS password solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "LAPS",
+    "LAPS",
+    "Manager",
+    "Local",
+    "admin",
+    "password",
+    "solution"
+  ],
+  "author": "Tino Ruge",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "activedirectory": "^0.7.2",
+    "bunyan": "^1.8.15",
+    "express": "^4.18.1",
+    "ldapjs": "^2.3.3"
+  }
+}

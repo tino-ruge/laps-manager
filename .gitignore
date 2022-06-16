@@ -1,0 +1,6 @@
+# Node.JS-Kram
+node_modules/*
+package-lock.json
+
+# Config-Datei in Testdomäne
+config/config.json
