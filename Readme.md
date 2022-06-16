@@ -40,7 +40,7 @@ Copy `/config/example.config.js` to `/config/config.js` and customize it.
 ## Screenshots
 
 ### Login page
-![Simple login page with username and password](readme-assets/login-screen.PNG)
+![Simple login page with username and password](readme-assets/login-screen.png)
 
 ### Computer list page
 ![List showing all computers, their OS, the name of the local admin and a button to view the password](readme-assets/computer-list.PNG)
